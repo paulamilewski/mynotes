@@ -28,5 +28,4 @@ Friday
 - 0900 - Intro to College Communications COMM1000
 - 1200 - Intro to Data Management COMP1238
 
-[
-](https://github.com/paulamilewski/mynotes/)
+https://github.com/paulamilewski/mynotes/
